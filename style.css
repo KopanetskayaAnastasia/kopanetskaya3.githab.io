@@ -13,6 +13,14 @@
     background-color: rgb(253, 217, 245);
     font: 45px arial italic;
 }
+#logo{
+flex:1;
+order:1;
+}
+#own{
+flex:3;
+order:2;
+}
 nav,body,#tabform{
     display: flex;
     flex-direction: column;
