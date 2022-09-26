@@ -38,8 +38,8 @@ table{
     order: 2;
 }
 #map0{
-    display:flex;
-    width:100%
+    hight:auto;
+    max-width:100%
 }
 @media screen and (min-width: 800px) {
     nav{
