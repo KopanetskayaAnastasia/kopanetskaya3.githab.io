@@ -37,10 +37,6 @@ table{
 #tab{
     order: 2;
 }
-#map0{
-    hight:auto;
-    max-width:100%
-}
 @media screen and (min-width: 800px) {
     nav{
         display: flex;
